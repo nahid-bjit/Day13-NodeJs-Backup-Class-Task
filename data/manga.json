@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Sumit Saha Rocks"
+    },
+    {
+        "id": 2,
+        "name": "Naruto, Vol. 2",
+        "price": 9.99,
+        "stock": 33,
+        "author": "Masashi Kishimoto"
+    },
+    {
+        "id": 3,
+        "name": "Naruto, Vol. 3",
+        "price": 9.99,
+        "stock": 26,
+        "author": "Masashi Kishimoto"
+    },
+    {
+        "id": 4,
+        "name": "Naruto, Vol. 4",
+        "price": 9.99,
+        "stock": 15,
+        "author": "Masashi Kishimoto"
+    },
+    {
+        "id": 5,
+        "name": "Bleach, Vol. 1",
+        "price": 9.99,
+        "stock": 50,
+        "author": "Tite Kubo"
+    },
+    {
+        "id": 6,
+        "name": "Bleach, Vol. 25",
+        "price": 9.99,
+        "stock": 50,
+        "author": "Tite Kubo"
+    },
+    {
+        "id": 8,
+        "name": "One Piece, Vol. 105",
+        "price": 11.99,
+        "stock": 20,
+        "author": "Eiichiro Oda"
+    },
+    {
+        "id": 9,
+        "name": "One Piece, Vol. 103",
+        "price": 12.99,
+        "stock": 25,
+        "author": "Eiichiro Oda"
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Shahriar Shihab",
+        "id": 11
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Pallob ",
+        "id": 12
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Pallob Poddar",
+        "id": 13
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Mubashir Bhuiyan",
+        "id": 14
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "SAbbir San",
+        "id": 14
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Tanvir San",
+        "id": 14
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": " Sumit San",
+        "id": 14
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Prettier San",
+        "id": 14
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Raya chillay",
+        "id": 15
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Raya chillay",
+        "id": 16
+    },
+    {
+        "name": "Naruto, Vol. 1",
+        "price": 9.99,
+        "stock": 42,
+        "author": "Shakhawat Shihab",
+        "id": 17
+    }
+]
